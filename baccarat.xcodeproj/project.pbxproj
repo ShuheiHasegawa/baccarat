@@ -15,6 +15,7 @@
 		71A4CD2B29ED9BB900667DDB /* baccarat_Watch_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A4CD2A29ED9BB900667DDB /* baccarat_Watch_AppTests.swift */; };
 		71A4CD3529ED9BB900667DDB /* baccarat_Watch_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A4CD3429ED9BB900667DDB /* baccarat_Watch_AppUITests.swift */; };
 		71A4CD3729ED9BB900667DDB /* baccarat_Watch_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A4CD3629ED9BB900667DDB /* baccarat_Watch_AppUITestsLaunchTests.swift */; };
+		71A4CD4829EDA13200667DDB /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A4CD4729EDA13200667DDB /* UIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		71A4CD3029ED9BB900667DDB /* baccarat Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "baccarat Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		71A4CD3429ED9BB900667DDB /* baccarat_Watch_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baccarat_Watch_AppUITests.swift; sourceTree = "<group>"; };
 		71A4CD3629ED9BB900667DDB /* baccarat_Watch_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baccarat_Watch_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		71A4CD4729EDA13200667DDB /* UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 			children = (
 				71A4CD1929ED9BB800667DDB /* baccaratApp.swift */,
 				71A4CD1B29ED9BB800667DDB /* ContentView.swift */,
+				71A4CD4729EDA13200667DDB /* UIView.swift */,
 				71A4CD1D29ED9BB900667DDB /* Assets.xcassets */,
 				71A4CD1F29ED9BB900667DDB /* Preview Content */,
 			);
@@ -310,6 +313,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				71A4CD1C29ED9BB800667DDB /* ContentView.swift in Sources */,
+				71A4CD4829EDA13200667DDB /* UIView.swift in Sources */,
 				71A4CD1A29ED9BB800667DDB /* baccaratApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
